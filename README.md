@@ -7,7 +7,7 @@ Tenho 25 anos e estou sempre buscando evolução, não apenas por estar em uma �
 
 💻 **Linguagens de Programação**
 - **Experiência:** JavaScript, Java, TypeScript, Python, C++
-- **Em Aperfeiçoamento:** PHP, Ruby
+- **Em Aperfeiçoamento:**.... 
 - **Frontend:** HTML, CSS, React
 - **Backend:** Node.js, JavaScript (Node.js), Java, TypeScript, Python, C++
 

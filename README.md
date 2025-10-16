@@ -3,7 +3,7 @@
  **Estudante de Análise e Desenvolvimento de Sistemas** na Unifor
 
  **Sobre Mim**
-Tenho 25 anos e estou sempre buscando evolução, não apenas por estar em uma área que evolui constantemente, mas também para aprimorar meu próprio conhecimento e aperfeiçoar minha carreira. Acredito que o aprendizado contínuo é essencial para se destacar em um mundo cada vez mais tecnológico e competitivo.
+Tenho 26 anos e estou sempre buscando evolução, não apenas por estar em uma área que evolui constantemente, mas também para aprimorar meu próprio conhecimento e aperfeiçoar minha carreira. Acredito que o aprendizado contínuo é essencial para se destacar em um mundo cada vez mais tecnológico e competitivo.
 
 💻 **Linguagens de Programação**
 - **Experiência:** JavaScript, Java, TypeScript, Python, C++

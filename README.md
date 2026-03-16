@@ -5,7 +5,7 @@
  **Sobre Mim**
 Tenho 26 anos e estou sempre buscando evolução, não apenas por estar em uma área que evolui constantemente, mas também para aprimorar meu próprio conhecimento e aperfeiçoar minha carreira. Acredito que o aprendizado contínuo é essencial para se destacar em um mundo cada vez mais tecnológico e competitivo.
 
-Trabalho atualmente como Analsita de CRM.
+Trabalho atualmente como Analista de CRM.
 
 💻 **Linguagens de Programação**
 - **Experiência:** JavaScript, Java, TypeScript, Python, C++

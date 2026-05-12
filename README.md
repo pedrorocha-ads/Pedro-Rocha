@@ -1,22 +1,56 @@
 # Pedro Rocha
 
- **Estudante de Análise e Desenvolvimento de Sistemas** na Unifor
+Ensino Médio | Colégio Militar de Fortaleza — CMF
+Estudante de Análise e Desenvolvimento de Sistemas na Univerisade de Fortaleza - UNIFOR · Analista de CRM
 
- **Sobre Mim**
-Tenho 26 anos e estou sempre buscando evolução, não apenas por estar em uma área que evolui constantemente, mas também para aprimorar meu próprio conhecimento e aperfeiçoar minha carreira. Acredito que o aprendizado contínuo é essencial para se destacar em um mundo cada vez mais tecnológico e competitivo.
+---
 
-Trabalho atualmente como Analista de CRM.
+## Sobre Mim
 
-💻 **Linguagens de Programação**
-- **Experiência:** JavaScript, Java, TypeScript, Python, C++
-- **Em Aperfeiçoamento:** .... 
-- **Frontend:** HTML, CSS, React
-- **Backend:** Node.js, JavaScript (Node.js), Java, TypeScript, Python, C++
+26 anos. Construo sistemas onde automação e inteligência artificial resolvem problemas reais. Trabalho como Analista de CRM e desenvolvo projetos próprios que combinam integração com IA, plataforma de atendimentos com IA nativa e interfaces modernas.
 
- Atualmente estou focado em expandir meus conhecimentos em linguagens e frameworks, tanto de backend quanto de frontend, sempre buscando aprender novas tecnologias e me desafiar em projetos.
+Aprendizado contínuo não é hábito — é requisito.
 
- **O que me motiva:**
-Estar em constante evolução, aprender coisas novas e contribuir para projetos inovadores. O desenvolvimento tecnológico me fascina, e quero fazer parte dessa transformação global com habilidades cada vez mais afiadas.
+---
+
+## 🛠️ Stack
+
+**Linguagens**
+`JavaScript` `TypeScript` `Python` `Java` `C++`
+
+**Frontend**
+`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
+
+**Backend**
+`Node.js` `TypeScript` `Python` `Java`
+
+**Banco de Dados**
+`PostgreSQL` `Prisma ORM`
+
+**Infra & Ferramentas**
+`Docker` `Socket.io` `NextAuth.js` `REST APIs`
+
+**Integrações**
+`Evolution API (WhatsApp)` `Webhooks` `AI/LLM APIs`
+
+---
+
+## 🚀 Projetos em Destaque
+
+### Plataforma de Atendimento via WhatsApp + IA
+Sistema de atendimento ao cliente onde mensagens chegam via WhatsApp, são tratadas por IA e podem ser transferidas para agentes humanos. Stack: Next.js · PostgreSQL · Prisma · Socket.io · Evolution API · NextAuth.js.
+
+### Sistema de Gestão Empresarial
+Plataforma multi-departamental que centraliza informações de diferentes setores da empresa e automatiza processos manuais. Cada departamento alimenta o sistema com dados do seu setor, gerando visibilidade integrada e reduzindo trabalho operacional repetitivo para trazer melhores resultados ao negócio.
+
+### Agente IA
+Desenvolvimento de agentes autônomos com integrações via API.
+
+---
+
+## 📈 Foco Atual
+
+Expandindo domínio em arquitetura de sistemas full-stack, integração com LLMs e automação de processos via mensageria e agentes de IA.
 
  **Entre em Contato**
 - **LinkedIn:** [www.linkedin.com/in/pedro-rocha-ads-be]

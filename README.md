@@ -8,7 +8,11 @@ Estudante de Análise e Desenvolvimento de Sistemas na Univerisade de Fortaleza 
 
 ## Sobre Mim
 
-26 anos. Construo sistemas onde automação e inteligência artificial resolvem problemas reais. Trabalho como Analista de CRM e desenvolvo projetos próprios que combinam integração com IA, plataforma de atendimentos com IA nativa e interfaces modernas.
+26 anos. 
+
+Construo sistemas onde automação e inteligência artificial resolvem problemas reais. 
+
+Trabalho como Analista de CRM e desenvolvo projetos próprios que combinam integração com IA, plataforma de atendimentos com IA nativa e interfaces modernas.
 
 Aprendizado contínuo não é hábito — é requisito.
 
@@ -51,7 +55,7 @@ Desenvolvimento de agentes autônomos com integrações via API.
 
 ## 📈 Foco Atual
 
-Expandindo domínio em arquitetura de sistemas full-stack, integração com LLMs e automação de processos via mensageria e agentes de IA.
+Expandindo domínio em arquitetura de sistemas full-stack, integração com LLMs e automação de processos via plataforma de atendimento e agentes de IA.
 
  **Entre em Contato**
 - **LinkedIn:** [www.linkedin.com/in/pedro-rocha-ads-be]

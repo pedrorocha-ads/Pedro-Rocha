@@ -1,6 +1,7 @@
 # Pedro Rocha
 
 Ensino Médio | Colégio Militar de Fortaleza — CMF
+
 Estudante de Análise e Desenvolvimento de Sistemas na Univerisade de Fortaleza - UNIFOR · Analista de CRM
 
 ---

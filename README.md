@@ -18,7 +18,7 @@ Construo sistemas onde automação e inteligência artificial resolvem problemas
 
 Trabalho como Analista de CRM e desenvolvo projetos próprios que combinam integração com IA, plataforma de atendimentos com IA nativa e interfaces modernas.
 
-Aprendizado contínuo não é hábito — é requisito.
+Aprendizado contínuo não é hábito, é requisito.
 
 ---
 
